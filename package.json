@@ -41,5 +41,8 @@
     "peerDependencyRules": {
       "ignoreMissing": ["vite", "vue", "vue-router", "webpack"]
     }
+  },
+  "stackblitz": {
+    "startCommand": "pnpm i && pnpm dev:prepare && pnpm dev"
   }
 }
