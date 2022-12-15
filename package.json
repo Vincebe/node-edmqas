@@ -43,6 +43,6 @@
     }
   },
   "stackblitz": {
-    "startCommand": "pnpm i && pnpm dev:prepare && pnpm dev"
+    "startCommand": "pnpm dev:prepare && pnpm dev"
   }
 }
