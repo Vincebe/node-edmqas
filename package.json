@@ -31,7 +31,7 @@
     "@nuxt/module-builder": "^0.2.1",
     "@nuxt/schema": "^3.0.0",
     "@nuxtjs/eslint-config-typescript": "^12.0.0",
-    "@unocss/nuxt": "^0.46.5",
+    "@unocss/nuxt": "0.46.5",
     "eslint": "^8.29.0",
     "nuxt": "^3.0.0",
     "sass": "^1.56.1",
